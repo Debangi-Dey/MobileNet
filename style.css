@@ -1,0 +1,50 @@
+.headerdiv {
+    color: coral;
+}
+.headerdiv img {
+    width: 100px;
+}
+.maindiv{
+    background-color: bisque;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px dashed brown;
+}
+.maindiv label {
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 20px;
+}
+#cam, #result {
+    border: 3px dashed maroon;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 20px;
+}
+.maindiv button {
+    width: 310px;
+    font-size: 16px;
+}
+.footer_div {
+ margin-bottom: 50px;
+}
+
+.footer_div h4 {
+    background-color: aquamarine;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 10px aqua;
+}
+.footer_div img {
+    width: 70px;
+}
+.cp_footer {
+    position: fixed;
+    bottom: 0;
+    background-color: black;
+    color: white;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+}
